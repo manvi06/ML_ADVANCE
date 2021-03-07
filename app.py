@@ -1,6 +1,3 @@
-cat runtime.txt
-python-3.8.5
-
 import numpy as np
 import pandas as pd
 from flask import Flask, request, render_template
