@@ -2,7 +2,7 @@ Flask>=1.1.1
 numpy>=1.20.1
 pandas>=1.2.2
 scikit-learn>=0.24.1
-RandomForestClassifier>=0.22.2
+
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
